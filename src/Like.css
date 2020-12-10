@@ -1,0 +1,20 @@
+.Like {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 16px;
+}
+.Like button {
+  background: rgba(0,0,0,0);
+  border: 2px solid #333;
+  margin: 0;
+  padding: 12px;
+}
+.Like p {
+  border-top: 2px solid #333;
+  border-bottom: 2px solid #333;
+  padding: 10.5px;
+  padding-left: 24px;
+  padding-right:24px;
+}
